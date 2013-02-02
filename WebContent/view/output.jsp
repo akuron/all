@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-<body background="img/ojisan.jpg" style="background-size:35% ; background-repeat:no-repeat">
+<body background="img/iga.jpg" style="background-size:35% ; background-repeat:no-repeat">
 
 <div align="right">
 <h1>結果</h1>
