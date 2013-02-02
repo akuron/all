@@ -19,6 +19,7 @@
 <jsp:getProperty property="bmi" name="user"/>
 </font>
 』です。
+<h2><a href="input.jsp">再挑戦する</a></h2>
 </div>
 
 </body>
